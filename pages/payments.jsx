@@ -43,7 +43,7 @@ const payments = () => {
 
           </p>
           <a
-            href='https://github.com/IamHamud'
+            href='https://github.com/IamHamud/React-Payments-App'
             target='_blank'
             rel='noreferrer'
           >
