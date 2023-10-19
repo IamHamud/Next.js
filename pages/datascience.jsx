@@ -46,7 +46,7 @@ These insights can guide decision-making and help improve fraud prevention measu
 
           </p>
           <a
-            href='https://github.com/IamHamud'
+            href='https://github.com/IamHamud/FintechPayments'
             target='_blank'
             rel='noreferrer'
           >
