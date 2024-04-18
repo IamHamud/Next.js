@@ -15,11 +15,11 @@ const About = () => {
           <h2 className='py-4 text-[#0c1142]'>Career History</h2>
           <p className='py-2 text-[#0c1142]'>
   
-            I am an experienced professional in the Customer Success Associate role,
+            I am an experienced professional in business analyst role.
             my interest in Fintech payments solutions is a driving force behind my
-            aspiration to advance my career in the UK. I am presently refining my expertise
+            aspiration to advance my career in the UK. I have aquired expertise
             through the MSc Fintech program at the University of Gloucestershire. 
-            I believe that the finance is one of the trending subjects, while integrating
+            I believe that the fintech payments is one of the trending subjects, while integrating
             Technology with it allows us to advance in future specially when AI tools
             have become a reliant force to depend on. 
             
@@ -30,7 +30,7 @@ const About = () => {
             payment Dashboard. This has brought my interest further to learn 
             front-end applications using HTML, CSS, & Javascript. 
 
-            As I advanced my Career in Customer support role, I have fully learned,
+            As I advanced my Career as a business analyst role, I have fully learned,
             implemented CRM application Monday.com in 2020, which not only increased
             my customer support expertise, but also my technical skills in integrating
             tools like Zapier and process automations and backend-technologies. 
