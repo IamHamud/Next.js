@@ -40,7 +40,7 @@ const resume = () => {
           <div className='hidden sm:block'>
             <p>
               Fintech <span className='px-1'>|</span> Web Development{' '}
-              <span className='px-1'>|</span> Customer Success
+              <span className='px-1'>|</span> Business Analyst
             </p>
           </div>
           <div className='block sm:hidden'>
@@ -50,9 +50,9 @@ const resume = () => {
           </div>
         </div>
         <p>
-      As an Experienced individual in Customer Success Associate role with a strong interest in Fintech payments solution, I am seeking a position to develop my career in UK. Currently enrolled in MSc Fintech at University of Gloucestershire.
-      I am expected to graduate in 2024. I have Achieved imperfective revenue milestone of 1.2 M AED on a span of 2 years by implementing Monday.com CRM on controlling streamlined workflows leading to reducing churn rate by 30% and eliminating bottleneck processes.
-      Skilled in computer programming languages [ Python & React] while familiar with [ Golang].
+      As an Experienced business analyst with a strong interest in Fintech payments solution, I am seeking a position to develop my career in Payments Industry. I have graduated MSc Fintech at University of Gloucestershire.
+      As a business analyst, I have Achieved imperfective revenue milestone of 1.2 M AED on a span of 2 years by implementing Monday.com CRM on controlling streamlined workflows leading to reducing churn rate by 30% and eliminating bottleneck processes.
+      Skilled in computer programming languages [ Python & React].
       Skilled in customer orientation in establishing relationships and ability to take proactive approach in problem solving.
         </p>
 
@@ -92,7 +92,7 @@ const resume = () => {
             </span>
             <span className='px-2'>|</span>Dubai, UAE
           </p>
-          <p className='py-1 italic'>Customer Success Associate & Web Master (2020 - 2022 Dec)</p>
+          <p className='py-1 italic'> BUsiness Analyst (2020 - 2022 Dec)</p>
           <ul className='list-disc list-outside px-7 py-1 leading-relaxed'>
             <li>
         Revenue Efficiency: Achieved an impressive revenue milestone surpassing 1.2M AED over two years. Successfully implemented cost efficiency measures with accurate forecasted margins.
