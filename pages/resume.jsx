@@ -92,7 +92,7 @@ const resume = () => {
             </span>
             <span className='px-2'>|</span>Dubai, UAE
           </p>
-          <p className='py-1 italic'> BUsiness Analyst (2020 - 2022 Dec)</p>
+          <p className='py-1 italic'> Business Analyst (2020 - 2022 Dec)</p>
           <ul className='list-disc list-outside px-7 py-1 leading-relaxed'>
             <li>
         Revenue Efficiency: Achieved an impressive revenue milestone surpassing 1.2M AED over two years. Successfully implemented cost efficiency measures with accurate forecasted margins.
