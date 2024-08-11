@@ -16,7 +16,7 @@ const Main = () => {
           </h1>
           <h2 className='py-2 text-white'>I am a Developer </h2>
           <p className='py-4 text-white sm:max-w-[70%] m-auto'>
-          MSc Fintech Graduate. Experienced Business Analyst, I have built React Web app specializing in enhancing payment solutions through proficient programming and seamless API integrations
+          MSc Fintech Graduate. Experienced Technical Accounts  & customer Support Specialist.I have built React Web app specializing in enhancing payment solutions through proficient programming and seamless API integrations
           </p>
           <div className='flex items-center justify-between max-w-[330px] m-auto py-4 space-x-4'>
             <a
