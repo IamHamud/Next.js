@@ -37,12 +37,6 @@ my dissertation project verifying seamless payment method integration and functi
 with web app using React programming language. Furthermore I developed a Python-based data science project to
 analyze fintech payments, focusing on improving approval rates and minimizing fraud by identifying patterns and
 trends in declined transactions, demonstrating results through detailed charts and graphs.
-My Prior experience as a business analyst in the Mena region includes accomplishments of building long-term
-relationships with clients and customers, providing analytics and technical expertise, and implementing
-Monday.com CRM Dashboards. These efforts streamlined workflows, reduced churn rates by 30%, eliminated
-bottlenecks, and optimized payment solutions with data-driven insights. I am fluent in Arabic and English. I have
-also obtained skills in project management with leading and coordinating project deliverables which contributed to
-30% growth by working with cross functional teams
           </p>
           <Link href='/#projects'>
             <a className='py-2 text-[#3898ec] hover:underline'>
