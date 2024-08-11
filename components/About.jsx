@@ -13,32 +13,36 @@ const About = () => {
             About
           </p>
           <h2 className='py-4 text-[#0c1142]'>Career History</h2>
-          <p className='py-2 text-[#0c1142]'>
-  
-            I am an experienced professional in business analyst role.
-            my interest in Fintech payments solutions is a driving force behind my
-            aspiration to advance my career in the UK. I have aquired expertise
-            through the MSc Fintech program at the University of Gloucestershire. 
-            I believe that the fintech payments is one of the trending subjects, while integrating
-            Technology with it allows us to advance in future specially when AI tools
-            have become a reliant force to depend on. 
-            
+          <p className='py-2 text-[#0c1142]'>  
+I am an experienced Technical Account and Customer Support Specialist with a Master’s degree in Fintech from the
+UK. I have practical experience in the fintech payments industry knowledge. My recent work includes freelance
+support for merchants onboarding process with the setup of a sandbox test environment & live onboarding steps.
+This phase involved obtaining API keys, configuring backend systems with endpoint URLs, and conducting various
+test payments to ensure proper functionality and security compliance. The sandbox environment allowed for
+rigorous testing of different payment scenarios, including the implementation of 3D Secure, to ensure that all
+aspects of the payment process were functioning correctly with Postman.
           </p>
           <p className='py-2 text-[#0c1142]'>
-            My Journey to Programming started back in 2019, as i started to explore
-            fintech Payment Providers APIs and their role in the Merchants 
-            payment Dashboard. This has brought my interest further to learn 
-            front-end applications using HTML, CSS, & Javascript. 
-
-            As I advanced my Career as a business analyst role, I have fully learned,
-            implemented CRM application Monday.com in 2020, which not only increased
-            my customer support expertise, but also my technical skills in integrating
-            tools like Zapier and process automations and backend-technologies. 
-            It has lead my interest to
-            develop and learn React programming langauge as well as wireframing, and 
-            deploying applications. In my spare time, i spend learning technologies
-            and tools like Github and backend technologies that are closely involved 
-            in the Fintech Field. 
+With technical skills, I have implemented different payment methods & worked on enhancing the checkout user
+interface (UI) to improve the overall customer experience. This included integrating custom checkout.com frames
+and optimizing the UI for better performance and aesthetic alignment with the merchants' branding. I also
+provided ongoing technical support and optimization services, ensuring the payment systems remained efficient
+and secure.
+During Masters in Fintech, I acquired in-depth knowledge of financial markets and the payments industry &
+Technical programming Skills in [ Python & React] developed & integrated Fintech Payments solution apps different
+payment Methods using API based integrations measuring & enhancing advanced data analytics to monitor and
+optimize payment operations, significantly improving transaction success rates and customer satisfaction further
+applied in designing and conducting robust testing of various payment methods across multiple platforms during
+my dissertation project verifying seamless payment method integration and functionality on test environments
+with web app using React programming language. Furthermore I developed a Python-based data science project to
+analyze fintech payments, focusing on improving approval rates and minimizing fraud by identifying patterns and
+trends in declined transactions, demonstrating results through detailed charts and graphs.
+My Prior experience as a business analyst in the Mena region includes accomplishments of building long-term
+relationships with clients and customers, providing analytics and technical expertise, and implementing
+Monday.com CRM Dashboards. These efforts streamlined workflows, reduced churn rates by 30%, eliminated
+bottlenecks, and optimized payment solutions with data-driven insights. I am fluent in Arabic and English. I have
+also obtained skills in project management with leading and coordinating project deliverables which contributed to
+30% growth by working with cross functional teams
           </p>
           <Link href='/#projects'>
             <a className='py-2 text-[#3898ec] hover:underline'>
